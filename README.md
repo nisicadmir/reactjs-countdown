@@ -1,6 +1,6 @@
 # Countdown app with ReactJS
 
-This is Countdown app in ReactJS. It takes a date and makes a countdown.
+This is Countdown app in ReactJS. It takes an input date and displays a countdown.
 
 ## Installation
 ```
